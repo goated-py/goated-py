@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://github.com/goated-py/goated-py/blob/main/content/100.gif" />
+<img src="https://github.com/goated-py/goated-py/blob/main/content/100.gif)" width="200" style="float: left; margin-right: 20px;" />
 <br clear="left" />
 
 **Languages**
