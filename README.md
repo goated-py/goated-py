@@ -1,4 +1,5 @@
-<img align="left" src="100.gif" width="200" />
+<img align="left" src="100.gif" width=400"/>
+<br clear="left" />
 #Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -11,6 +12,6 @@
 #DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-<br clear="left" />
+
 
 [![Skill 1](ссылка-на-бейдж)](ссылка)
