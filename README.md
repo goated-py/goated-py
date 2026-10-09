@@ -2,7 +2,7 @@
 <tr>
 <td width="220" valign="top">
 
-<img src="https://github.com/goated-py/goated-py/blob/main/content/100.gif" width="200" />
+<img src="https://github.com/goated-py/goated-py/blob/main/content/100.gif" width="400" />
 
 </td>
 <td valign="top">
